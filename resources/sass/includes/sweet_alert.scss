@@ -1,0 +1,17 @@
+.swal2-icon.swal2-info {
+  border-color: $color-primary;
+  color: $color-primary;
+}
+.swal2-styled.swal2-confirm {
+  background-color: $color-primary;
+  box-shadow: none;
+}
+.swal2-styled.swal2-confirm:focus {
+  box-shadow: none;
+}
+.swal2-popup.swal2-toast .swal2-close:hover {
+  color: inherit;
+}
+.swal2-popup.swal2-toast .swal2-close:focus {
+  box-shadow: none;
+}

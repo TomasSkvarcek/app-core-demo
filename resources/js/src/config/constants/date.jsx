@@ -1,0 +1,10 @@
+export const date_format = 'DD.MM.YYYY';
+export const datetime_format = 'DD.MM.YYYY HH:mm';
+export const time_format = 'HH:mm';
+export const datetime_format_seconds = 'DD.MM.YYYY HH:mm:ss';
+export const time_format_seconds = 'HH:mm:ss';
+export const input_date_format = 'YYYY-MM-DD';
+export const input_datetime_format = 'YYYY-MM-DD HH:mm:ss';
+export const input_time_format = 'HH:mm:ss';
+export const date_picker_date_format = 'dd.MM.yyyy';
+export const date_picker_datetime_format = 'dd.MM.yyyy HH:mm';

@@ -1,0 +1,14 @@
+.table-hover-custom>tbody>tr:hover td,
+.table-hover-custom>tbody>tr:hover th {
+  background-color: $color-3 !important;
+}
+
+.nowrap-table-col {
+  white-space: nowrap;
+}
+
+thead.scrollable-header {
+  position: sticky;
+  top: 60px;
+  z-index: 10;
+}

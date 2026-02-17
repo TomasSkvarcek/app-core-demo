@@ -1,0 +1,22 @@
+.nav-link {
+  color: $color-font-secondary;
+  padding: 1px;
+  margin-left: 5px;
+  .active {
+    border-bottom: solid 1px;
+  }
+}
+
+.nav-link.active {
+  border-bottom: solid 1px;
+}
+
+.nav-link:hover {
+  border-bottom: solid 1px;
+  color: $color-font-secondary;
+}
+
+.dropdown-item:hover {
+  background-color: $color-3;
+  color: $color-font;
+}
